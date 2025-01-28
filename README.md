@@ -1,5 +1,8 @@
 
-dan:  
+<b>dan:</b> <br>
+![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-in_progress-blue)
+
+<b>from:</b> 🇧🇷
 
 <b>most used emojis:</b>
 
