@@ -8,6 +8,7 @@
 
 👽🙃🥹😈💀👅👆🏽🫠
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcscruz&layout=compact)
 
 <b>languages:</b>
 <div style="display: inline_block"> 
@@ -16,7 +17,6 @@
     <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"src="">
     <img align="center" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="html5"src="">
     <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="JSON"src="python">
-    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"src="">
     
 </div>
 <br>
